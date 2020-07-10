@@ -1,4 +1,5 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+SURGE LINK:
+http://covid19_app.surge.sh/
 
 ## Available Scripts
 
